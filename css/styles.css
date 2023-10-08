@@ -73,8 +73,7 @@ background-color: #2e2f42;
         letter-spacing: 1.12px;
         color: var(--WHITE, #FFF);
         line-height: 1.07;
-        text-align: center;
-        
+        text-align: center;    
 }
 .button {
     background-color: #4D5AE5;
