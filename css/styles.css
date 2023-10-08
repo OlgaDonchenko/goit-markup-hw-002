@@ -36,3 +36,9 @@ body {
 .nav:focus{
   color: #404bbf;
 } 
+.nav-link .link:hover{
+    color: #404bbf;
+}
+.nav-link .link:focus{
+    color: #404bbf;
+}
