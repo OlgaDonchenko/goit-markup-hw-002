@@ -118,18 +118,17 @@ color: var(--SLATE, #434455);
 
     .team-people-title {
         color: var(--NAVY-BLUE, #2E2F42);
-            text-align: center;
-        
-        
-            font-family: "Roboto";
+        text-align: center;
+        font-family: "Roboto";
             font-size: 36px;
 line-height: 1.11;
             font-weight: 700;
-
             letter-spacing: 0.72px;
             text-transform: capitalize;
     }
-
+.team-people-list-item {
+    background-color: #FFFFFF;
+}
     .name-people {
         color: var(--NAVY-BLUE, #2E2F42);
             text-align: center;
@@ -138,6 +137,7 @@ line-height: 1.11;
             font-weight: 500;
             line-height: 24px;
             letter-spacing: 0.4px;
+            background-color: #FFFFFF;
     }
     .position {
         color: var(--SLATE, #434455);
@@ -148,7 +148,6 @@ line-height: 1.11;
             font-weight: 400;
             line-height: 24px;
             letter-spacing: 0.32px;
-    }
     .portfolio-section{
         background-color: #FFFFFF;
     }
@@ -169,8 +168,8 @@ line-height: 1.11;
         font-size: 20px;
         font-style: normal;
         font-weight: 500;
-        line-height: 1.11;
         letter-spacing: 0.4px;
+        line-height: 1.2;
 }
 
 .type-service {
