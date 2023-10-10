@@ -123,9 +123,8 @@ color: var(--SLATE, #434455);
         
             font-family: "Roboto";
             font-size: 36px;
-
+line-height: 1.11;
             font-weight: 700;
-            line-height: 40px;
 
             letter-spacing: 0.72px;
             text-transform: capitalize;
@@ -150,6 +149,9 @@ color: var(--SLATE, #434455);
             line-height: 24px;
             letter-spacing: 0.32px;
     }
+    .portfolio-section{
+        background-color: #FFFFFF;
+    }
 .portfolio-title {
     color: var(--NAVY-BLUE, #2E2F42);
         text-align: center;
@@ -167,7 +169,7 @@ color: var(--SLATE, #434455);
         font-size: 20px;
         font-style: normal;
         font-weight: 500;
-        line-height: 24px;
+        line-height: 1.11;
         letter-spacing: 0.4px;
 }
 
