@@ -4,7 +4,7 @@ body {
       
         background-color: #FFFFFF;;
 }
-
+/* =================Logo================ */
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -73,6 +73,9 @@ text-decoration: none;
 .address:focus {
     color: #404bbf;
 }
+
+
+/*========================== Main hero===================== */
 .hero {
 background-color: #2e2f42;
 }
@@ -123,7 +126,7 @@ color: var(--SLATE, #434455);
     line-height: 1.5;
     letter-spacing: 0.02em
     }
-
+/* ======Section team people */
     .team-people {
         background-color: #F4F4FD;
     }
@@ -161,6 +164,9 @@ line-height: 1.11;
             line-height: 24px;
             letter-spacing: 0.32px;
     }
+
+    /* =======Section portfolio ========*/
+
     .portfolio-section{
         background-color: #FFF;
     }
@@ -196,7 +202,7 @@ line-height: 1.11;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-
+/* ==================Footer section============ */
      .footer-section {
         background: #2e2f42;
      }
